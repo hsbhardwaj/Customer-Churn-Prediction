@@ -18,7 +18,7 @@ This project uses supervised machine learning to predict customer churn.
 
 ### Customer Info
 
-![Customer Churn Customer Information](screenshots/Customer Info.png)
+![Customer Churn Customer Information](screenshots/Customer_Info.png)
 
 ### Prediction Result
 

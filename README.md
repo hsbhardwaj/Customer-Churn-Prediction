@@ -125,8 +125,11 @@ The application will open locally in your browser.
 - Develop business-oriented retention recommendations.
 - Deploy the application online.
 
-## Author
+## Author👨‍💻
 
-**Data Science and Machine Learning Portfolio Project**
-
-Built using Python, Machine Learning and Streamlit.
+  Harsh
+  
+  M.Sc. Data Science & Machine Learning
+  
+  Built using Python, Machine Learning and Streamlit.
+  

@@ -10,26 +10,6 @@ Customer churn is an important business problem for telecom companies. Identifyi
 
 This project uses supervised machine learning to predict customer churn.
 
-## Application Screenshots
-
-### Dashboard Overview
-
-![Customer Churn Prediction Dashboard](screenshots/Dashboard.png)
-
-### Customer Info
-
-![Customer Churn Customer Information](screenshots/CustomerInfo.png)
-
-### Prediction Result
-
-![Customer Churn Prediction Result](screenshots/Prediction_Result.png)
-
-## Live Demo
-
-Try the application here:
-
-https://customer-churn-prediction-hsb.streamlit.app/
-
 
 ## Technologies Used
 

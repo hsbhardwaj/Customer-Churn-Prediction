@@ -1,4 +1,8 @@
-
+# Preload model-related sklearn components
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline
 import streamlit as st
 import pandas as pd
 import joblib

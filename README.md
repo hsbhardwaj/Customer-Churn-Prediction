@@ -9,6 +9,23 @@ The project includes Exploratory Data Analysis (EDA), machine learning model com
 Customer churn is an important business problem for telecom companies. Identifying customers who are likely to leave helps businesses understand retention risks and take proactive action.
 
 This project uses supervised machine learning to predict customer churn.
+## Application Screenshots 
+
+### Dashboard Overview 
+
+![Customer Churn Prediction Dashboard](Screenshots/Dashboard.png) 
+
+### Customer Info
+
+![Customer Churn Customer Information](Screenshots/CustomerInfo.png) 
+
+### Prediction Result
+
+![Customer Churn Prediction Result](Screenshots/Prediction_Result.png) 
+
+## Live Demo
+
+Try the application here: https://customer-churn-prediction-hsb.streamlit.app/
 
 
 ## Technologies Used
